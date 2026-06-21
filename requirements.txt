@@ -1,0 +1,15 @@
+# Python dependencies for the `phd-proficiency` env (pyenv-virtualenv, Python 3.14).
+# Install:  python3 -m pip install -r requirements.txt
+#
+# Add packages here as helper scripts need them. Suggested starting set for
+# control-systems + ML study (uncomment what you actually use):
+#
+# numpy
+# scipy
+# sympy
+# matplotlib
+# control          # python-control: state-space, transfer functions, LTI tools
+# python-docx      # parse the .docx exam papers in prev_data/
+# pypdf            # parse lecture PDFs
+# scikit-learn
+# jupyter
