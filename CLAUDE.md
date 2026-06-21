@@ -22,7 +22,7 @@ the exam scope. The selected courses:
 | KOM5111 | Data Communication in Automation Systems | industrial networks / fieldbus |
 | KOM6115 | Reinforcement-Learning-Based Optimal Control | optimal control, dynamic programming, RL |
 | KOM6203 | System Theory | linear systems, state-space, controllability/observability, stability |
-| KOM6110 | Machine Learning & Artificial Neural Networks | ML, neural networks |
+| KOM6110 | Machine Learning and Artificial Neural Networks | ML, neural networks |
 
 Past papers in `prev_data/` use the tags **ST** = System Theory and **SAT** = System
 Analysis Techniques.
@@ -87,7 +87,7 @@ Rules:
   `oral/` top-level folders. Place material in whichever stage it supports.
 
   ## Workflow
-  - The engineer presents course list and syllbus
+  - The engineer presents course list and syllabus
   - The engineer presents available course materials
   - The engineer request detailed course notes; Claude shall research on web for additional note if required
   - The engineer request exercise questions; Claude shall generate questions according to course material and notes
