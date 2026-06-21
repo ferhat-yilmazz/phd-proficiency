@@ -1,2 +1,16 @@
-# OS filesystem
+# OS filesystem
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Claude Code (local, machine-specific overrides — keep settings.json tracked)
+.claude/settings.local.json
+
+# Sublime Test
+.sublime-project
