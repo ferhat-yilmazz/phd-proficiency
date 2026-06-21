@@ -1,0 +1,34 @@
+Transcript
+==========
+Course codes and Turkish names as listed on the YTU Bologna Information System;
+English names normalized (spelling/grammar) from the Bologna catalog titles.
+Format:  <code>  <Turkish name>  —  <English name>
+
+KOM — Control & Automation Engineering (CO)
+-------------------------------------------
+- KOM5106  Sistem Analiz Teknikleri  —  System Analysis Techniques
+- KOM5111  Otomasyon Sistemlerinde Veri Haberleşmesi  —  Data Communication in Automation Systems
+- KOM6115  Pekiştirmeli Öğrenme Tabanlı Optimal Kontrol  —  Reinforcement-Learning-Based Optimal Control
+- KOM6103  Otomatik Sürüş Kontrol Sistemleri  —  Automated Driving Control Systems
+- KOM6203  Sistem Teorisi  —  System Theory
+- KOM6110  Makine Öğrenmesi ve Yapay Sinir Ağları  —  Machine Learning and Artificial Neural Networks
+- KOM6111  Model Öngörülü Kontrol  —  Model Predictive Control
+- KOM5116  Kontrol Sistemlerinde Veri Haberleşmesi  —  Data Communication in Control Systems
+- KOM5118  Optimal Kontrol  —  Optimal Control
+
+BLM — Computer Engineering (CE)
+-------------------------------
+- BLM5126  İleri Yazılım Mimarisi  —  Advanced Software Architecture
+- BLM5102  Bilgisayar Sistemleri ve Ağ Güvenliği  —  Computer Systems and Network Security
+- BLM5119  Yazılım Proje Yönetimi  —  Software Project Management
+- BLM5135  Derin Öğrenme ve Yapay Sinir Ağları  —  Deep Learning and Artificial Neural Networks
+- BLM5105  Doğal Dil İşlemeye Kavramsal Bir Bakış  —  Cognitive Aspects of Natural Language Processing
+
+
+Selected Courses (exam scope)
+=============================
+- KOM5106  Sistem Analiz Teknikleri  —  System Analysis Techniques
+- KOM5111  Otomasyon Sistemlerinde Veri Haberleşmesi  —  Data Communication in Automation Systems
+- KOM6115  Pekiştirmeli Öğrenme Tabanlı Optimal Kontrol  —  Reinforcement-Learning-Based Optimal Control
+- KOM6203  Sistem Teorisi  —  System Theory
+- KOM6110  Makine Öğrenmesi ve Yapay Sinir Ağları  —  Machine Learning and Artificial Neural Networks
