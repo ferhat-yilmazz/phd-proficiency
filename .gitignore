@@ -13,4 +13,6 @@ __pycache__/
 .claude/settings.local.json
 
 # Sublime Test
-.sublime-project
+*.sublime-project
+*.sublime-workspace
+
