@@ -67,6 +67,8 @@ Rules:
   structure is decided as material is added.
 - `scripts/` — Python helper scripts and tools (extract text/figures from exam files,
   generate practice problems, check derivations, etc.).
+- `tmp/` — scratch space for all temporary/intermediate work; git-ignored (not committed).
+  Shared: both Claude and the engineer may write here.
 - `prev_data/` — **read-only reference material** (writes are blocked in
   `.claude/settings.json`). Past exams, lecture PDFs, and annotated slides — treat as
   ground-truth inputs; never modify or delete:
@@ -100,3 +102,5 @@ Rules:
   - Claude shall use verified websites to get course notes, e.g. universities
   - Claude shall explain all topics and questions by teaching core
   - Claude shall avoid verbosity, it shall be think more to explain deeply with few words
+  - Claude shall use the repository's `tmp/` folder for all temporary work, never the
+  system `/tmp`. The engineer may also use `tmp/` for scratch files.
