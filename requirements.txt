@@ -1,8 +1,13 @@
 # Python dependencies for the `phd-proficiency` env (pyenv-virtualenv, Python 3.14).
 # Install:  python3 -m pip install -r requirements.txt
 #
-# Add packages here as helper scripts need them. Suggested starting set for
-# control-systems + ML study (uncomment what you actually use):
+# Add packages here as helper scripts need them.
+#
+# Used by scripts/fetch_syllabi.py (fetch + parse YTU Bologna syllabus pages):
+requests
+beautifulsoup4
+#
+# Suggested starting set for control-systems + ML study (uncomment what you use):
 #
 # numpy
 # scipy
