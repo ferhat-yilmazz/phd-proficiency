@@ -18,3 +18,10 @@ __pycache__/
 
 # Temporary folder
 tmp/
+
+# Course textbooks & lecture notes: keep the folders (via .gitkeep), but ignore
+# their contents (downloaded books, slides, notes — large and re-downloadable).
+written/*/textbooks/*
+!written/*/textbooks/.gitkeep
+written/*/lecture-notes/*
+!written/*/lecture-notes/.gitkeep
