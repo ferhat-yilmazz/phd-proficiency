@@ -7,6 +7,7 @@ Format:  <code>  <Turkish name>  —  <English name>
 KOM — Control & Automation Engineering (CO)
 -------------------------------------------
 - KOM5106  Sistem Analiz Teknikleri  —  System Analysis Techniques
+- KOM5107  Sistem Dinamiği Modellenmesi ve Simülasyonu  —  System Dynamics, Modeling and Simulation
 - KOM5111  Otomasyon Sistemlerinde Veri Haberleşmesi  —  Data Communication in Automation Systems
 - KOM6115  Pekiştirmeli Öğrenme Tabanlı Optimal Kontrol  —  Reinforcement-Learning-Based Optimal Control
 - KOM6103  Otomatik Sürüş Kontrol Sistemleri  —  Automated Driving Control Systems
@@ -28,6 +29,7 @@ BLM — Computer Engineering (CE)
 Selected Courses (exam scope)
 =============================
 - KOM5106  Sistem Analiz Teknikleri  —  System Analysis Techniques
+- KOM5107  Sistem Dinamiği Modellenmesi ve Simülasyonu  —  System Dynamics, Modeling and Simulation
 - KOM5111  Otomasyon Sistemlerinde Veri Haberleşmesi  —  Data Communication in Automation Systems
 - KOM6115  Pekiştirmeli Öğrenme Tabanlı Optimal Kontrol  —  Reinforcement-Learning-Based Optimal Control
 - KOM6203  Sistem Teorisi  —  System Theory

@@ -31,6 +31,7 @@ URL = "https://bologna.yildiz.edu.tr/index.php?r=course/view&id={cid}&aid=18&pid
 # (course code, Bologna course id, target folder under written/)
 COURSES = [
     ("KOM5106", 7175, "KOM5106-System-Analysis-Techniques"),
+    ("KOM5107", 6873, "KOM5107-System-Dynamics-Modeling-and-Simulation"),
     ("KOM5111", 9392, "KOM5111-Data-Communication-in-Automation-Systems"),
     ("KOM6115", 11635, "KOM6115-Reinforcement-Learning-Based-Optimal-Control"),
     ("KOM6203", 7172, "KOM6203-System-Theory"),
