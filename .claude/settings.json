@@ -1,67 +1,21 @@
 {
   "permissions": {
-    "defaultMode": "default",
     "allow": [
-      "Bash(python:*)",
-      "Bash(python3:*)",
-      "Bash(pip:*)",
-      "Bash(pip3:*)",
-      "Bash(pytest:*)",
-      "Bash(ruff:*)",
-      "Bash(black:*)",
-      "Bash(mypy:*)",
-      "Bash(jupyter:*)",
-      "Bash(ipython:*)",
-      "Bash(ls:*)",
-      "Bash(cat:*)",
-      "Bash(head:*)",
-      "Bash(tail:*)",
-      "Bash(wc:*)",
-      "Bash(sort:*)",
-      "Bash(uniq:*)",
-      "Bash(find:*)",
-      "Bash(grep:*)",
-      "Bash(rg:*)",
-      "Bash(tree:*)",
-      "Bash(du:*)",
-      "Bash(file:*)",
       "Bash(pandoc:*)",
       "Bash(pdftotext:*)",
-      "Bash(unzip:*)",
-      "Bash(touch:*)",
-      "Bash(pyenv:*)",
-      "Bash(git status:*)",
-      "Bash(git diff:*)",
-      "Bash(git log:*)",
-      "Bash(git show:*)",
-      "Bash(git add:*)",
       "Read(./**)",
       "Edit(./**)",
       "Write(./**)"
     ],
     "ask": [
-      "Bash(curl:*)",
-      "Bash(wget:*)",
-      "Bash(git commit:*)",
-      "Bash(git push:*)",
-      "Bash(mkdir:*)",
-      "Bash(mv:*)",
-      "Bash(cp:*)",
       "Edit(./CLAUDE.md)",
       "Write(./CLAUDE.md)",
       "Edit(./.claude/settings.json)",
       "Write(./.claude/settings.json)"
     ],
     "deny": [
-      "Bash(sudo:*)",
-      "Bash(rm -rf:*)"
+      "Edit(./prev_data/**)",
+      "Write(./prev_data/**)"
     ]
-  },
-  "env": {
-    "ANTHROPIC_MODEL": "claude-opus-4-8",
-    "CLAUDE_CODE_EFFORT_LEVEL": "max",
-    "API_TIMEOUT_MS": "600000",
-    "CLAUDE_STREAM_IDLE_TIMEOUT_MS": "120000",
-    "CLAUDE_CODE_DISABLE_NONSTREAMING_FALLBACK": "1"
   }
 }
