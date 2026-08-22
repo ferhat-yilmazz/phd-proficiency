@@ -4,18 +4,14 @@
       "Bash(pandoc:*)",
       "Bash(pdftotext:*)",
       "Read(./**)",
-      "Edit(./**)",
-      "Write(./**)"
+      "Edit(./**)"
     ],
     "ask": [
       "Edit(./CLAUDE.md)",
-      "Write(./CLAUDE.md)",
-      "Edit(./.claude/settings.json)",
-      "Write(./.claude/settings.json)"
+      "Edit(./.claude/settings.json)"
     ],
     "deny": [
-      "Edit(./prev_data/**)",
-      "Write(./prev_data/**)"
+      "Edit(./prev_data/**)"
     ]
   }
 }
