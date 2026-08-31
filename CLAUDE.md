@@ -25,8 +25,8 @@ the exam scope. The selected courses:
 | KOM6203 | System Theory | linear systems, state-space, controllability/observability, stability |
 | KOM6110 | Machine Learning and Artificial Neural Networks | ML, neural networks |
 
-Past papers in `prev_data/` use the tags **ST** = System Theory and **SAT** = System
-Analysis Techniques.
+Past papers use the tags **ST** = System Theory and **SAT** = System Analysis
+Techniques.
 
 ## Working language
 
@@ -70,13 +70,6 @@ Rules:
   generate practice problems, check derivations, etc.).
 - `tmp/` — scratch space for all temporary/intermediate work; git-ignored (not committed).
   Shared: both Claude and the engineer may write here.
-- `prev_data/` — **read-only reference material** (writes are blocked in
-  `.claude/settings.json`). Past exams, lecture PDFs, and annotated slides — treat as
-  ground-truth inputs; never modify or delete:
-  - `28_kasım_2022_yeterlilik_soru_ST_SAT.docx` — 28 Nov 2022 exam (System Theory + System Analysis Techniques)
-  - `lineer_sistemler.pdf` — Linear Systems lecture notes (~22 MB)
-  - `written_exam.jpeg`, `oral_exam.docx` — written & oral exam material
-  - `l01-ann/` — Lecture 1 (ANN) annotated slide screenshots
 - `course_list.txt` — full course catalog + selected exam-scope courses.
 - `CLAUDE.md` — this file.
 
@@ -84,8 +77,8 @@ Rules:
 
 - Parse `.docx` / `.pdf` / image sources with a committed Python script (e.g.
   `python-docx`, `pypdf`) rather than one-off shell, so extraction is reproducible.
-- Keep generated study artifacts out of `prev_data/`; write study notes under
-  `written/` or `oral/`, and script outputs under `scripts/` paths.
+- Write study notes under `written/` or `oral/`, and script outputs under
+  `scripts/` paths.
 - The exam has two stages — **written** and **oral** — mirrored by the `written/` and
   `oral/` top-level folders. Place material in whichever stage it supports.
 

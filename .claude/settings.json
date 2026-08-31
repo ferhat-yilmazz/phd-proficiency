@@ -9,9 +9,6 @@
     "ask": [
       "Edit(./CLAUDE.md)",
       "Edit(./.claude/settings.json)"
-    ],
-    "deny": [
-      "Edit(./prev_data/**)"
     ]
   }
 }

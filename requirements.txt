@@ -14,7 +14,7 @@ beautifulsoup4
 # sympy
 # matplotlib
 # control          # python-control: state-space, transfer functions, LTI tools
-# python-docx      # parse the .docx exam papers in prev_data/
+# python-docx      # parse the .docx exam papers
 # pypdf            # parse lecture PDFs
 # scikit-learn
 # jupyter
