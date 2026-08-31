@@ -24,3 +24,6 @@ tmp/
 # rule covers every institution/publications folder, including any added later.
 written/*/resource/*/*
 !written/*/resource/*/.gitkeep
+
+# Ignore previous exams; they may be issued for copyright
+_prev-exam/
