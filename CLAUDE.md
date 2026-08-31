@@ -19,6 +19,7 @@ the exam scope. The selected courses:
 | Code | Course (EN) | Area |
 |------|-------------|------|
 | KOM5106 | System Analysis Techniques | dynamic-system modeling & analysis |
+| KOM5107 | System Dynamics, Modeling and Simulation | physical-system modeling (mechanical, electrical, thermal, fluid), transient & steady-state response |
 | KOM5111 | Data Communication in Automation Systems | industrial networks / fieldbus |
 | KOM6115 | Reinforcement-Learning-Based Optimal Control | optimal control, dynamic programming, RL |
 | KOM6203 | System Theory | linear systems, state-space, controllability/observability, stability |

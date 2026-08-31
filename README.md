@@ -16,6 +16,7 @@ The exam has two stages — **written** and **oral**. Selected courses
 | Code | Course | Area |
 |------|--------|------|
 | KOM5106 | System Analysis Techniques | Dynamic-system modeling & analysis |
+| KOM5107 | System Dynamics, Modeling and Simulation | Physical-system modeling (mechanical, electrical, thermal, fluid), transient & steady-state response |
 | KOM5111 | Data Communication in Automation Systems | Industrial networks / fieldbus |
 | KOM6115 | Reinforcement-Learning-Based Optimal Control | Optimal control, dynamic programming, RL |
 | KOM6203 | System Theory | Linear systems, state-space, controllability/observability, stability |
